@@ -7,7 +7,7 @@
 - 🔭 The more we know,  the more we know what we do not know...
 - 🌱 I’m currently learning Ruby, Ruby on Rails, JavaScript, React/Redux, HTML, and CSS at ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects and build fun projects
 - ⚡ Fun fact: I love music and  soccer
 
 ### Connect with me:
