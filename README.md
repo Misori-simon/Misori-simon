@@ -2,13 +2,13 @@
 
 <img src="./assets/images/css.gif" >
 
-## I'm a Full stack Developer
+## I'm a Full Stack Developer
 
-- 🔭 Learning truly never ends...
-- 🌱 I’m currently learning Ruby, Ruby on Rails, Javascript, React/Redux, HTML, and CSS at ![](https://img.shields.io/badge/Microverse-blueviolet)
-- 👯 I’m looking to collaborate with other devlopers
+- 🔭 The more we know,  the more we know what we do not know...
+- 🌱 I’m currently learning Ruby, Ruby on Rails, JavaScript, React/Redux, HTML, and CSS at ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love music, poetry  and  soccer
+- ⚡ Fun fact: I love music and  soccer
 
 ### Connect with me:
 
